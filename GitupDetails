@@ -1,0 +1,12 @@
+GIT Hub is version controling system.
+
+Basic Git hub terminologies
+Repositories(A folder contains all the files related to a project).
+Read me file(basic instruction about the project).
+Commit(saving the state)
+
+Advanced Gtit hub terminologies
+Branch
+Merge
+Fork
+Pull request
